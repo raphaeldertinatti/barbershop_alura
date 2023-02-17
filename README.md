@@ -1,4 +1,5 @@
-# Website Barbearia Alura.
-Projeto de website para uma barbearia fictícia, desenvolvido em HTML e CSS como forma de consolidar os conhecimentos adquiridos nessas linguagens.
+# Website Barber Shop Alura.
 
-- Acesse o projeto: https://raphaeldertinatti.github.io/barbearia_alura/
+Website project of a fictitious Baber Shop, developed with HTML and CSS for practicing and training the knowledge acquired about these two programming languages.
+
+- Link to the project: https://raphaeldertinatti.github.io/barbearia_alura/
